@@ -1,8 +1,8 @@
 ## Olá! Eu sou a Ana Paula Souza Dias
 <div>
   <a href="https://github.com/AnaPaulaSouzaDias">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=anapaulasouzadias&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapaulasouzadias&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=anapaulasouzadias&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapaulasouzadias&layout=compact&langs_count=7&theme=blueberry"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
